@@ -8,7 +8,7 @@ Can you find a way to view the redacted information? The flag is the room number
 
 Flag format: IGE{XX}
 
-_Given:_ [Letter.pdf]()
+_Given:_ [Letter.pdf](https://github.com/LeonGurin/Inter-Galactic-CTF/blob/main/Forensics/Redacted%20Letter/Letter.pdf)
 
 ___
 

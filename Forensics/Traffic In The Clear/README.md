@@ -8,7 +8,7 @@ Can you find the flag?
 
 Flag format: IGE{XXXX_XXXX_XXXXXXXXXX_XX_XXX_XXXX}
 
-_Given:_ [file.pcapng]()
+_Given:_ [file.pcapng](https://github.com/LeonGurin/Inter-Galactic-CTF/tree/main/Forensics/Traffic%20In%20The%20Clear)
 
 ___
 

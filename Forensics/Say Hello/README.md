@@ -8,7 +8,7 @@ Find the hidden message! Then submit the last word of the secret message wrapped
 
 Flag format: IGE{XXXXX}
 
-_Given:_ [Hello.pdf]()
+_Given:_ [Hello.pdf](https://github.com/LeonGurin/Inter-Galactic-CTF/blob/main/Forensics/Say%20Hello/Hello.pdf)
 
 ___
 

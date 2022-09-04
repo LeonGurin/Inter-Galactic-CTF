@@ -8,7 +8,7 @@ Can you find the flag?
 
 Flag format: IGE{XXX_XXXXX_XXXXX}
 
-_Given:_ [findtheflag.jpg]()
+_Given:_ [findtheflag.jpg](https://github.com/LeonGurin/Inter-Galactic-CTF/tree/main/Forensics/Where%20did%20the%20flag%20go)
 
 ___
 

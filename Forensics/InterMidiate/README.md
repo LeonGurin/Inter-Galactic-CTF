@@ -8,12 +8,12 @@ How cool is music?
 
 Flag format: IGE{XXXXX_XX_XXXXX}
 
-_Given:_ [spacemusic.mid]()
+_Given:_ [spacemusic.mid](https://github.com/LeonGurin/Inter-Galactic-CTF/blob/main/Forensics/InterMidiate/spacemusic.mid)
 
 ___
 
 Plopping the file in an online midi editor we get the letters of the flag spelled out:
 
-![img.png]()
+![img.png](https://github.com/LeonGurin/Inter-Galactic-CTF/blob/main/Forensics/InterMidiate/img.png)
 
 >IGE{MUSIC_15_C00L!}

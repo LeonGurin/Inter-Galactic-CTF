@@ -10,9 +10,11 @@ Flag format: IGE{XXXXXXXXXXXX}
 
 Credit: Christoph T.
 
-_Given:_ [animal_challenge.png]()
+_Given:_ [animal_challenge.png](https://github.com/LeonGurin/Inter-Galactic-CTF/blob/main/Cryptography/Animal%20Cruelty/animal_challenge.png)
 
 ___
+
+![animal_challenge.png](https://github.com/LeonGurin/Inter-Galactic-CTF/blob/main/Cryptography/Animal%20Cruelty/animal_challenge.png)
 
 If we look at the picture and write the starting letter of each animal in order we get:
 
