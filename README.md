@@ -32,6 +32,7 @@
  | Kickoff | 25/25
  | Intermediate Unlocker | -50/-50
 
+* got also -30 points used for hint on BEGINNER - OSINF1 - Who's Ethan?
 
 # Competition Results:
 * **Scored:** 1595 points
