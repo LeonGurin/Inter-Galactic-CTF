@@ -10,13 +10,13 @@ Flag format: IGE{XXX_XXX_X_XX_XXXXXXX}
 
 Credit: Christoph T.
 
-_Given:_ [desk.jpg](https://github.com/LeonGurin/Inter-Galactic-CTF/tree/main/Forensics/The%20Office)
+_Given:_ [desk.jpg](https://github.com/LeonGurin/Inter-Galactic-CTF/blob/main/Forensics/The%20Office/desk.jpg)
 
 ___
 
 Looking at the photo we can see a sticky note with the flag in it:
 
-![desk.jpg](https://github.com/LeonGurin/Inter-Galactic-CTF/tree/main/Forensics/The%20Office)
+![desk.jpg](https://github.com/LeonGurin/Inter-Galactic-CTF/blob/main/Forensics/The%20Office/desk.jpg)
 
 >IGE{Pl5_u53_pw_m4n4g3r}
 
