@@ -36,5 +36,5 @@
 
 # Competition Results:
 * **Scored:** 1595 points
-* **Placed:** 50 place
+* **Placed:** null - because this CTF was aimed for middle to highschool students, only they got to see their final results on the leaderboard
 
