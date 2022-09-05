@@ -1,4 +1,4 @@
-# Hacky Holidays - Unlock the City Writeup
+# Inter-Galactic-CTF Writeup
  In this competition I managed to complete the following challenges:
  | Challenge Name          | Points
  | --------------          | ------
